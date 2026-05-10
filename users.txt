@@ -1,2 +1,0 @@
-abdullah,ab@gmail.com,3ratcat3,pak
-abdullah,test@gmail.com,3ratcat3,pak

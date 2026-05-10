@@ -23,6 +23,19 @@ void signUp(person*&, int & length);
 void login(person*, int length);
 void loadUsers(person*&, int & length);
 
+//REPORT MANAGEMENT MODULE
+void reportMenu();
+int countUsers();
+int  countPosts();
+void mostActiveUser();
+void exportReport();
+
+//MARKETING MODULE
+void marketingMenu();
+void addAnnouncement();
+void viewAnnouncements();
+void recordVisit();
+void marketingReport();
 
 
 
