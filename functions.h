@@ -5,6 +5,7 @@
 using namespace std;
 #include <vector>
 #include<fstream>
+#include <sstream>
 
 struct person{
     string name;
